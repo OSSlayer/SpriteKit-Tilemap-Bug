@@ -1,3 +1,0 @@
-I opened back up Xcode after putting the initial files on here and I added a new tile called "House". 
-First I went into .xcassets and dragged and dropped the house tile in there. Then I went to the tilemap and made a new tile group and dragged and dropped again
-This caused the other tiles to become blurry. I hit cmd + s and put the files on here.
