@@ -1,2 +1,5 @@
 After doing the two tests which are in the initial/ and broken/ directiories, I did some more testing. 
 First I opened Xcode again just to see if it was fixed but it was not.
+Then I downloaded the first version which was working and I replaced the Xcode project as that one. The tiles were back to clear like in the initial version
+
+This means something has changed inside the save files
